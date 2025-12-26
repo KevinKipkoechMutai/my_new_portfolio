@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <div>
-      <h1>MacFolio</h1>
+      <h1 className="text-3xl font-bold underline">MacFolio</h1>
     </div>
   )
 }
