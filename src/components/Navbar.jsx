@@ -1,5 +1,5 @@
 import React from 'react'
-import { navLinks, navIcons } from '../../constants'
+import { navLinks, navIcons } from '#constants/index.js'
 import dayjs from "dayjs"
 
 const Navbar = () => {
